@@ -1,0 +1,11 @@
+ Credenciales
+.env
+
+# Entorno virtual (elige el que uses)
+venv/
+.venv/
+env/
+
+# Archivos del sistema
+__pycache__/
+*.pyc
