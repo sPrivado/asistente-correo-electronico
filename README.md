@@ -10,3 +10,8 @@ Para demostrar que puedo integrar autenticación segura, automatización y manej
 2. Crear un archivo `.env` con tus credenciales (ver `.env.example`)  
 3. Instalar dependencias  
 4. Ejecutar `main.py`
+
+## Aprendizajes
+- Configuración segura con claves de app de Gmail
+- Gestión del .env
+- Primer uso de Git
